@@ -1,4 +1,4 @@
 
-## SITE UNDER CONSTRUCTION 
+# SITE UNDER CONSTRUCTION 
 
-# Remain The Payment Method
+## Remain The Payment Method
